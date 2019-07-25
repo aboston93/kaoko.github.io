@@ -1,0 +1,8 @@
+.pic{
+    display: block;
+background-image:url("images/IMG_2828.JPG");
+height: 500px;
+width: 500px;
+background-size:contain;
+}
+
