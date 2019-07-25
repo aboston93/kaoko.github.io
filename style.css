@@ -1,8 +1,30 @@
+body{
+    background-color:linear-gradient(red, white red,silver,crimson,blue);
+    background-size: cover;
+    /* image taken from google */
+	
+  
+
+}
+.container{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
 .pic{
-    display: block;
+    
 background-image:url("images/IMG_2828.JPG");
 height: 500px;
 width: 500px;
 background-size:contain;
 }
 
+.name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color:red;
+}
+.socialmedia{
+    height: 12px;
+    width: 12px;
+
+}
